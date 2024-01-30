@@ -2,6 +2,10 @@
 
 This is a sample project demonstrating a Monster Battle game. It's built using Node.js and React.
   
+
+https://github.com/massuiabigdog/fullStack-sample-project-node-react/assets/16282589/703f7747-5fa7-444a-8dba-bbe8a68cd44e
+
+
 ## Project Structure
 
 - `backend/`: This directory contains all the Node.js server code.
