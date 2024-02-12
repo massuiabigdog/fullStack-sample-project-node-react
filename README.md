@@ -1,9 +1,12 @@
 # Monster Battle
 
 This is a sample project demonstrating a Monster Battle game. It's built using Node.js and React.
+
   https://github.com/massuiabigdog/fullStack-sample-project-node-react/assets/16282589/703f7747-5fa7-444a-8dba-bbe8a68cd44e
 
-If you want see the all process to build it with my comments:
+
+- If you want see the all process to build it with my comments:
+
 https://drive.google.com/file/d/1H-jNMfSgdufklOyB_mskxC5USBMwmqg0/view?usp=sharing
 
 ## Project Structure
